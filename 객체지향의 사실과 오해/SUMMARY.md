@@ -22,3 +22,7 @@
     * [결국 타입은 추상화다.](part3/static\_model/type\_is\_normalization.md)
     * [동적모델과 정적모델](part3/static\_model/dynamic\_static\_model.md)
     * [클래스](part3/static\_model/class.md)
+* [역할, 책임, 협력](roll\_respons\_cooperation/README.md)
+  * [협력](roll\_respons\_cooperation/cooperation/README.md)
+    * [요청하고 응답하며 협력하는 사람들](roll\_respons\_cooperation/cooperation/request-response-humans.md)
+    * [프로그램 속의 협력](roll\_respons\_cooperation/cooperation/program\_cooperation.md)
